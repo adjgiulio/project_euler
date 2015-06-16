@@ -2,7 +2,7 @@
 """
 PROJECT EULER
 
-PROBLEM: 13 - Longest Collatz sequence
+PROBLEM: 14 - Longest Collatz sequence
 
 DESCRIPTION: The following iterative sequence is defined for the set of positive integers:
 
